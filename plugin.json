@@ -1,0 +1,11 @@
+{
+  "Group": "Mohamed",
+  "FrendlyName": "First plugin",
+  "SystemName": "Misc.FirstPlugin",
+  "version": "1.0",
+  "SupportedVersions": [ "4.60", "4.70" ],
+  "Author": "Mohamed Bamusa ",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.FirstPlugin.dll",
+  "Description": "my first test plugin"
+}
